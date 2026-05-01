@@ -1,3 +1,7 @@
+# FUTURE INTERNS - DATA SCIENCE TASK 2
+
+CIN ID: FIT/APR26/DS16969
+
 # Customer Churn Analysis (Task 2)
 
 ## 📌 Project Overview
